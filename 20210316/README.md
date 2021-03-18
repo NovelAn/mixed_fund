@@ -1,7 +1,7 @@
 # 混合型基金数据分析
 
 - 项目源码链接：[Github Repo](https://github.com/NovelAn/mixed_fund/tree/master/20210316)
-- 分析报告结果展示链接：[Jupter nbviewr](https://nbviewer.jupyter.org/github/NovelAn/mixed_fund/blob/master/20201124/2020%E5%B9%B4%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B7%B7%E5%90%88%E5%9E%8B%E5%9F%BA%E9%87%91%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
+- 分析报告结果展示链接：[CSDN](https://blog.csdn.net/novelan/article/details/114994311)
 
 ```shell
 ## 下载源码，请使用以下命令在你的本地上克隆repo
